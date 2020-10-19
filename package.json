@@ -1,0 +1,19 @@
+{
+  "name": "mains",
+  "version": "1.0.0",
+  "description": "this is for mains section",
+  "main": "index.js",
+  "scripts": {
+    "start": "node apimains.js",
+    "dev": "nodemon apimains.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "tarun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
